@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Swans welcome to His Royall Highness the Duke. Or, Some remarks upon that note-worthy passage, mention'd in the True Domestick Intelligence, dated Octob. 14. 1679. concerning a company of swans, more than ordinary gathered together, at his Royall Highnes's landing.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02849</idno>
+            <idno type="OCLC"> 8697599</idno>
+            <idno type="STC">Wing D2923</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[87]</idno>
+            <idno type="STC">ESTC R24934</idno>
+            <idno type="EEBO-CITATION">99889260</idno>
+            <idno type="PROQUEST">ocm99889260</idno>
+            <idno type="VID">182474</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182474)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[89])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Swans welcome to His Royall Highness the Duke. Or, Some remarks upon that note-worthy passage, mention'd in the True Domestick Intelligence, dated Octob. 14. 1679. concerning a company of swans, more than ordinary gathered together, at his Royall Highnes's landing.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Omens --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:182474:1" rendition="simple:additions"/>
+            <head>
+               <hi>Dux bonis omnibus appellans.</hi> THE Swans Welcome To His Royall Highneſs The DUKE.</head>
+            <head type="sub">
+               <hi>OR,</hi> Some Remarks upon that Note-worthy Paſſage, mention'd in the <hi>True Domeſtick Intelligence,</hi> Dated <hi>Octob. 14. 1679.</hi> concerning a Company of <hi>Swans,</hi> more than ordinary gathered together, at his <hi>Royall Highneſ's</hi> Landing.</head>
+            <p>I Hope my <hi>Flagellum Mercurii Antiducalis</hi> hath given the World ſome ſa<g ref="char:EOLhyphen"/>tisfaction, as to my <hi>Day-Fatality,</hi> ſo much carp'd at by <hi>Romes Packet, Septemb.</hi> 5.) as alſo by the <hi>Touch of the Times:</hi> I ſhall onely ſay, That even the pure ſincere <hi>Cloak-party</hi> themſelves have taken notice of the Fatality of Days; (for <hi>page</hi> 367. of the <hi>Memoires of the Lives and Actions of</hi> James <hi>and</hi> William <hi>Dukes of</hi> Hamilton, ſays, <hi>That the Rout of Duke</hi> Hamil<g ref="char:EOLhyphen"/>ton<hi>'s Army was received with great joy by the</hi> Kirk-Party <hi>in</hi> Scotland, <hi>who Re<g ref="char:EOLhyphen"/>ligiouſly obſerved, That the Diviſion of the Duke's Army (which was its ruine) was upon the</hi> 17. <hi>of</hi> Auguſt, <hi>which was the day on which the Covenant was made, thence called by ſome,</hi> St. Covenants Day.</p>
+            <p>But to my preſent matter.</p>
+            <p>I conclude my <hi>Decastiſh,</hi> in the Fatality, with this <hi>Engliſh Verſion,</hi>
+            </p>
+            <q>
+               <l>Great Duke, rejoice in this your day of Birth;</l>
+               <l>And may ſuch <hi>Omens</hi> still increaſe your mirth.</l>
+            </q>
+            <p>Since which Compoſition (which was <hi>Anno</hi> 1677.) ſome kind <hi>Omens</hi> have befall'n his <hi>R. H.</hi> as the 3. of <hi>March's Delications,</hi> with (though de<g ref="char:EOLhyphen"/>rided by the <hi>Time Toucher</hi>) St. <hi>Felix</hi> day, (29 <hi>Day</hi>) obſerved by the Publiſher of the <hi>Royal Effigies,</hi> and ſince recited by me in my late <hi>Flagellum.</hi>
+            </p>
+            <p>And St. <hi>Lucie</hi>'s day, memorably obſerved by the two eminent Brethren St. <hi>Marſhes,</hi> in the Birth of <hi>Henry le Grand,</hi> King of <hi>France,</hi> ſufficiently excuſe, allow, and protect; the words are theſe, <hi>He was born the</hi> 13 Octob. <hi>St.</hi> Lu<g ref="char:EOLhyphen"/>cies <hi>day, as if by a good</hi> Augury <hi>to be the Light and Ornament of the Princes of his time: A Day remarkable for the Winter Solstice, and esteem'd the most happy point of all Nativities.</hi> Thus they.</p>
+            <pb n="2" facs="tcp:182474:2"/>
+            <p n="2">2. The accident of the Swans accoſting the Duke at his Landing.</p>
+            <p>That Birds, ſome are <hi>Male-ominous,</hi> ſome <hi>Bene-ominous,</hi> (ill or well boding) Authors give many inſtances, and I am able my ſelf to particulariſe; I will onely mention three or four.</p>
+            <p>
+               <hi>Charles</hi> (from his ſtature called the <hi>Little,</hi> a man of admirable Courage and Conduct) King of <hi>Jeruſalem</hi> and <hi>Hungaria,</hi> and many other Provinces, had at his Coronation ſeveral ill Omens; amongſt many others, a multitude of Crows ſeated themſelves upon the Royal Palace; and immediately after his Coronation, he was traiterouſly and miſerably maſſacred. See the fore-recited Authors, in their Genealogick Hiſtory of the Houſe of <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Ovid, lib.</hi> 5. of his <hi>Metam.</hi> in his ſtory of <hi>Aſcalaphus,</hi> terms the Owl, <hi>Ig<g ref="char:EOLhyphen"/>navus Bubo dirum mortalibus Omen. Lib.</hi> 6. he calls it, <hi>Prophanus Bubo;</hi> and ſays, It ſate upon the Bride-bed of <hi>Tereus</hi> and <hi>Progne,</hi> fore-boding the un<g ref="char:EOLhyphen"/>luckineſs of the Marriage. And *<note place="margin">Portents of <hi>Caeſars.</hi>
+               </note> 
+               <hi>lib.</hi> 15. he terms it, <hi>Stygius Bubo.</hi>
+            </p>
+            <q>Triſtia mille locis Stygius ſedit omnia Bubo.</q>
+            <p>Look the Book of Martyrs, (<hi>ſub. H.</hi> 5.) and you find the Pourtraict of the Council of <hi>Conſtance,</hi> and the ill-ominous Owl that appeared there, prodi<g ref="char:EOLhyphen"/>giouſly preſaging the Depoſition of Pope <hi>John</hi> 24. But ſee <hi>Camerarius, p.</hi> 244. who elegantly relates the ſtory, and highly praiſes the excellent Quali<g ref="char:EOLhyphen"/>fications of the Pope.</p>
+            <p>
+               <hi>Mellificium Historicum</hi> ſays, Two Eagles ſate upon the Palace-top a whole day, when <hi>Alexander</hi> the Great was born, which the Sooth-ſayers averr'd to portend the double Empire of <hi>Europe</hi> and <hi>Aſia.</hi>
+            </p>
+            <p>But let us ſee what Authors ſay of the candid Swan; all eſteem him for a Bird-Royal, and oftentimes in Coats and Creſts, we meet him either Crown'd, or Coronally Collar'd: And he was the Badge of ſeveral great <hi>Engliſh</hi> Princes, of which, anon.</p>
+            <p>Mr. <hi>Guillim</hi> (but indeed Dr. <hi>Barkham,</hi> as Mr. <hi>Fuller</hi> avers in his <hi>Worthies</hi>) ſays, He is a Bird of great Beauty, and Strength alſo; and this is reported of him, That he uſes not his ſtrength to prey or tyrannize over any other Fowl, but onely to be revenged of ſuch as offer him wrong; in which caſe, ſays <hi>Aristotle,</hi> he often vanquiſhes the <hi>Eagle.</hi>
+            </p>
+            <p>
+               <hi>Pierius</hi> ſays, He ſignifies purity of mind; nay, <hi>Apollo</hi> himſelf.</p>
+            <p>Now in antient time he was conſecrated to <hi>Apollo, Apollo</hi> ſignifying no<g ref="char:EOLhyphen"/>thing elſe but the <hi>Sun,</hi> which is <hi>Oculus &amp; Luſae Mundi, Gen.</hi> 1.16, 17, 18. <hi>Apollo</hi> is ſometimes called <hi>Liber Pater,</hi> a Liberal Father, (the Latin word bears that ſenſe as well as others) and that is confirmed, <hi>Deut.</hi> 33.14. Aſtrologers termed him, <hi>Rex Planetarum,</hi> and ſays, He gives Rule, Riches, and Honour, (is Significator of Emperors, Kings, Princes, <hi>&amp;c.</hi>) The Swan is the Bird of the Sun, and alſo of his Royal Highneſs.</p>
+            <p>
+               <hi>Martianus</hi> ſays, Shipmen take it for good luck, if in peril of Shipwrack they meet Swans. I hope the attendance of theſe Swans (the matter in hand) forebodes his <hi>R. H.</hi> happy deliverance from all his ſtormy, tempeſtuous, vexatious troubles.</p>
+            <p>Let us ſee what brave Princes have uſed this happy Bird (commended by St. <hi>Ambroſe</hi>) for their Cognizance.</p>
+            <p>Firſt, <hi>Edward</hi> 3. (a brave Prince as ever was, and concern'd in the Auſpi<g ref="char:EOLhyphen"/>cious Fate of 14 <hi>Octob.</hi>) uſed it a Tournament, being embroider'd on his Shield and Surcoats with this Motto.</p>
+            <q>
+               <l>Hay, hay, the Wyth Swan,<note place="margin">Mr. <hi>Aſhmole</hi> his <hi>Gartel,</hi> 185.</note>
+               </l>
+               <l>By Gods Soul I am thy Man.</l>
+            </q>
+            <pb n="3" facs="tcp:182474:2"/>
+            <p n="2">2. <hi>Thomas</hi> of <hi>Woodſtock,</hi> Duke of <hi>Gloucester,</hi> uſed it continually. <hi>John Gower,</hi> that famous Poet, much bewails the murder of that excellent Prince; <hi>Cygnus de corde Benignus,</hi> oftentimes giving him the Epithet of <hi>Swan. See Weaver,</hi> 638.</p>
+            <p>A Swan, with a Coronet about his Neck, was one of the Supporters to King <hi>Hen.</hi> 4. (as Mr. <hi>Sandford</hi> in his <hi>Gen. History,</hi> 258.) A Prince of ſingular Valour and Clemency; for he refuſed not the Duels with <hi>Tho. Mowbray,</hi> Duke of <hi>Norfolk,</hi> (ſee <hi>Stow, anno</hi> 1378.) And ſecondly, He pardon'd <hi>Owen Glen<g ref="char:EOLhyphen"/>dowrdy,</hi> that had ſo damnably plagu'd him; (ſee <hi>Stow, anno</hi> 1401, 1402. <hi>Bis.</hi> 1403, 1404, 1405, &amp;c.) at the requeſt only of <hi>David Holbeach</hi> 
+               <abbr>Eſq</abbr> that was but a Servant of his own, and formerly Acquaintance of the ſaid <hi>Owens, (ibid.</hi> 1404.</p>
+            <p>Certainly he was an admirable Prince, by that wiſe and honeſt Advice he gave his Son upon his Death bed, (as <hi>R. Brook,</hi> p. 27.) <hi>viz.</hi> to miniſter the Laws indifferently, to eaſe the oppreſſed, to beware of Flatterers, not to de<g ref="char:EOLhyphen"/>fer Juſtice, nor to be ſparing of Mercy. <hi>Puniſh</hi> (quoth he) <hi>the Oppreſſors of thy People, ſo ſhalt thou obtain favour of God, and love of thy Subjects, who whilst they have wealth, ſo long ſhalt thou have obedience, but being made poor by Op<g ref="char:EOLhyphen"/>preſſions, will be ever ready for Rebellion.</hi> But let me not forget, that before he came to be King, the Swan was his Badge, and was imbroider'd upon his Capariſons, when he entred the Liſt aforeſaid, againſt the famous Duke his Adverſary, (as a Mss. given to the Heralds Office, by Sir <hi>William Dugd.</hi> Garter.</p>
+            <p>The Seat of <hi>Cicely Nevill,</hi> Dutcheſs of <hi>York,</hi> (a little Woman, but famous among our Writers for her great Spirit) was ſuppotted by a Swan; (ſee Mr. <hi>Sandford</hi> Laur. Herate, p. 352.) She was Mother to <hi>Edw.</hi> 4. and <hi>Rich.</hi> 3. as al<g ref="char:EOLhyphen"/>ſo to <hi>George,</hi> Duke of <hi>Clarence,</hi> (Princes of great Valour and Wit.) She ſaw firſt her Husband and third Son ſlain: Secondly, She ſaw the two Princes her Grand-children, murder'd by their own Uncle, and her Son: Thirdly, She ſaw her ſaid Son alſo ſlain. Yet bearing all theſe Grievances with a moſt even and invincible mind, ſhe lived to the 11th. of <hi>Hen.</hi> 7. admirably making good—<hi>Mala ſunt ſuperanda ferendo.</hi>
+            </p>
+            <p>And ſuch as theſe were the Princes of the <hi>Swan.</hi>
+            </p>
+            <p>There was an Order of Knight-hood of the Swan in <hi>Cleveland,</hi> (as ſays <hi>Sa<g ref="char:EOLhyphen"/>vine</hi>) who alſo affirms, the Princes of that Houſe, have ever born that beauti<g ref="char:EOLhyphen"/>ful and generous Bird for their Deviſe, Creſt and Supporters.</p>
+            <p>I need make but little Comment upon what hath been ſaid. I have hinted before the generous Nature of the Swan, being like that of the heroick Lion; and he cannot but be the <hi>Duke</hi>'s Bird. My advice is,</p>
+            <q>
+               <l>
+                  <hi>Deſistant Ranae torvum irritare Leonem.</hi>
+               </l>
+               <l>The Lion is by nature kind, though bold,</l>
+               <l>If that the Beaſts themſelves in duty hold.</l>
+            </q>
+            <q>Cygnus de Corde Benignus.</q>
+            <p>
+               <hi>Ovid, lib.</hi> 2. tells us, That <hi>Cycnus,</hi> King of <hi>Liguria,</hi> grieving for his Kinſ<g ref="char:EOLhyphen"/>man <hi>Phaeton,</hi> was turned into a Swan, a Royal Bird then. And he deſcribes his Nature thus,</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Stagna petit, patuloſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> lacus, ignem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> peroſus.</hi>
+                  </l>
+                  <l>
+                     <hi>Quae colat elegit contraria flumina flammis.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Rivers and ſpreading lakes are his delight,</l>
+                  <l>Which are to flames and fires quite oppoſite.</l>
+               </lg>
+            </q>
+            <pb n="4" facs="tcp:182474:3" rendition="simple:additions"/>
+            <p>This Great Duke hath been Lord High Admiral of <hi>Arragon,</hi> and alſo of <hi>England, (Maximus Marinus Maria petens)</hi> hath had great Command upon the vaſt Lake of the World, (<hi>viz.</hi> the Sea.)</p>
+            <p>He hath been <hi>Immenſi Tremor Oceani,</hi>
+               <note place="margin">
+                  <hi>Aſhm.</hi> p. 119.</note> (as Sir <hi>Tho. Higgens,</hi> in his Excellent Ode, which henceforth I ſhall call <hi>Swan-Song,</hi> (imitating <hi>Leland.</hi>)</p>
+            <p>And as to that damned Reflexion, impos'd upon the World by a late Knave, (<hi>Septemb.</hi> 5. <hi>Rome</hi>'s <hi>Packet</hi>) this Poet, by a divine praevious inſpiration, long ſince hath foretold the contrary. And the divine Providence will in due time, (as in the caſe of <hi>Joſeph</hi> and <hi>Suſanna</hi>) confound the Faces of impudent and ſeditious Detractors.</p>
+            <p>A latter Motto (of King <hi>Charles</hi> of Bleſſed Memory) as upon his Royal Pourtraicture in his Book, and in ſeveral Churches may appear, was <hi>Clariorè Tenebris.</hi>
+            </p>
+            <p>Even ſo his moſt Illuſtrious Son, <hi>ètenebroſis Calumniarum Cimmeriis, clariſſi<g ref="char:EOLhyphen"/>mus, puriſſimus, ac Columba innocentiſſimus (ad instar Cygni candidiſſimus) olim orietur.</hi>
+            </p>
+            <p>Out of the black and dark Sullies of ignominious Calumniations he ſhall ariſe, clear as the Sun, innocent as the Dove, white as the candid Swan.</p>
+            <p>In my <hi>Flagellum Mercurii Antiducalis,</hi> I mention'd the evil Spirit that we read of, <hi>Judges</hi> 9. And I now add, his <hi>R. H.</hi> condition at preſent is like the Kingly <hi>David</hi>'s (ſo much celebrated by the excellent Marqueſs <hi>Virgilio Mal<g ref="char:EOLhyphen"/>vezzi</hi>) <hi>1 Sam. chap.</hi> 30. <hi>verſ.</hi> 6. <hi>The people,</hi> &amp;c. But he comforts himſelf in the Lord his God, <hi>Acquieſcat &amp; videbit ſalutem Domini,</hi> Iſa. 52.10.</p>
+            <q>Flebile principium melior fortuna ſequetur.<note place="margin">
+                  <hi>Ovid,</hi> lib. 7. fab. 10.</note>
+            </q>
+            <p>Since I had finiſht this, I heard of the Artillery's ſolemn and cordial Invi<g ref="char:EOLhyphen"/>tation to his <hi>R. H.</hi> to congratulate his happy Return.—The Duke was uſher'd into the World with Medals, intimating the very Circumſtance—<hi>Mille Cohortes,</hi> (ſee Mr. <hi>Sandford,</hi> p. 562.)</p>
+            <p>Neither am I now ſuch an impertinent Wizzard, as <hi>Rome</hi>'s Packet, <hi>Sept.</hi> 5. would make me; for I aver'd the Duke's Return would be accompanied with Joy and Feaſting.</p>
+            <p>And it ſeems the Artillery Cohort begins it.</p>
+            <q>
+               <l>Great <hi>Duke,</hi> Thee ſafely home return'd we ſee,</l>
+               <l>Feaſtings and gladſom Healths intended be.</l>
+               <l>The Military Band make firſt their fair Addreſs,</l>
+               <l>The Senators and Citizens muſt do no leſs.</l>
+               <l>Their <hi>Swans</hi> have ſhewn them what they ought to do,</l>
+               <l>They are <hi>Apollo</hi>'s Birds, their love is true.</l>
+            </q>
+            <p>In my Fatality, I would have mention'd the good Omen of the Medal and Motto, (for I have it in my Notes) but I was afraid the capricious, malicious, Anti-Monarchical Crew, would have made malevolent Reflexions upon it, as tending to a ſtanding Army, and gladiatory Government.</p>
+            <p>But providentially the ſuſpicious Invitation intervening, I become bold and daring to publiſh it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
